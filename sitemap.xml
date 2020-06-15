@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://myamar.github.io/vremea-maine/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://myamar.github.io/vremea-maine/</loc>
+</url>
+<url>
+<loc>https://myamar.github.io/vremea-maine/cum-va-fi-vremea-maine.html</loc>
+<lastmod>2020-06-15T15:10:42+03:00</lastmod>
+</url>
+</urlset>
