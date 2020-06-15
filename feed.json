@@ -5,7 +5,7 @@
     "home_page_url": "https://myamar.github.io/vremea-maine",
     "feed_url": "https://myamar.github.io/vremea-maine/feed.json",
     "user_comment": "",
-    "icon": "https://myamar.github.io/vremea-maine/media/website/splash.png",
+    "icon": "https://myamar.github.io/vremea-maine/media/website/splash-2.png",
     "author": {
         "name": "Vremea"
     },
@@ -16,13 +16,14 @@
             "title": "Cum va fi vremea mâine",
             "summary": "În cea mai mare parte a teritoriului vor fi averse de ploaie însoțite de descărcări electrice frecvente, intensificări ale vântului pe termen scurt care vor lua forma furtunilor izolate și mici sau medii și grindină. Cu toate acestea, din punct de vedere termic potrivit vremea.ido.ro&hellip;",
             "content_html": "<div class=\"entry-content clearfix\">\n<p>În cea mai mare parte a teritoriului vor fi averse de ploaie însoțite de descărcări electrice frecvente, intensificări ale vântului pe termen scurt care vor lua forma furtunilor izolate și mici sau medii și grindină.<br><span id=\"more-27089\"></span><br>Cu toate acestea, din punct de vedere termic potrivit <a href=\"https://vremea.ido.ro/\">vremea.ido.ro</a> mâine nu va fi în mod necesar în conformitate cu aspectul cerului, temperaturile se vor încadra în normele climatologice ale perioadei, cu maxime care nu vor depăși 30-32 de grade Celsius.</p>\n<p>Va ploua în averse însoțite de descărcări electrice pe zone mari, în special în Moldova, Transilvania și Maramureș, în timp ce în restul zonelor averse vor mai fi raportate doar local.</p>\n<p>Temperaturile maxime se vor situa în general între 20 și 25 de grade Celsius în Transilvania, Maramureș, Banat și Crișana, 24-29 grade în Oltenia, Muntenia, Dobrogea și nordul Moldovei și 27-32 grade în sudul Moldovei, inclusiv <a href=\"https://bacaul.ro/vremea/\">Bacău</a>.</p>\n<p>Sursa: <a href=\"http://www.inainte.eu/2020/06/cum-va-fi-vremea-maine-si-in-urmatoarele-zile/\">Înainte de Bacău</a></p>\n</div>",
+            "image": "https://myamar.github.io/vremea-maine/media/posts/1/feature_graphic.png",
             "author": {
                 "name": "Vremea"
             },
             "tags": [
             ],
             "date_published": "2020-06-15T15:10:42+03:00",
-            "date_modified": "2020-06-15T16:43:01+03:00"
+            "date_modified": "2020-06-16T00:21:12+03:00"
         }
     ]
 }
